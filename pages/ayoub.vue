@@ -12,13 +12,10 @@
         </p>
         <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
           <ul>
-            <li>🔭   I’m currently working at <a href="www.spendesk.com"
-                class="text-purple-500 hover:underline">Spendesk</a></li>
-            <li>👨‍💻   All of my projects are available in my <a href="www.elguendouz-ayoub.com"
-                class="text-green-500 hover:underline">Website</a></li>
+            <li>🔭   I’m currently working at <a href="www.spendesk.com" class="text-purple-500 hover:underline">Spendesk</a></li>
+            <li>👨‍💻   All of my projects are available in my <a href="www.elguendouz-ayoub.com" class="text-green-500 hover:underline">Website</a></li>
             <li>📫   How to reach me: ayoub.elguendouz[@]gmail .com</li>
-            <li>📄   <a href="https://elguendouz-ayoub.com/assets/El_Guendouz_Ayoub_CV.pdf">Know about my experiences
-                with my resume</a></li>
+            <li>📄   <a class="text-green-500 hover:underline" href="https://elguendouz-ayoub.com/assets/El_Guendouz_Ayoub_CV.pdf">Know about my experiences with my resume</a></li>
           </ul>
         </p>
         <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
@@ -26,8 +23,7 @@
             My last project
           </h2>
           <ul>
-            <li><a href="https://github.com/ayoub9360/responsive-bot-check" class="text-green-500 hover:underline"> -
-                Responsive Check Bot</a></li>
+            <li><a href="https://github.com/ayoub9360/responsive-bot-check" class="text-green-500 hover:underline"> - Responsive Check Bot</a></li>
             <li><a href="https://yibzee.com/" class="text-green-500 hover:underline"> - Yibzee</a></li>
             <li><a href="https://elguendouz-ayoub.com/" class="text-green-500 hover:underline"> - Portfolio</a></li>
           </ul>
