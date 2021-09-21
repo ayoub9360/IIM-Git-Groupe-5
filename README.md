@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
-## :tools: Installation
+## 🛠 Installation
 
 Create a .env file and ask for the secrets.
 
@@ -25,8 +25,8 @@ Easy no?
 
 * If you need to share your work before it is done, create the pull request as draft
 
-## :construction_site: Project architecture
-
+## 🏗 Project architecture
+```shell
 .
 ├── README.md
 ├── assets/ # global css / fonts / images...
@@ -38,7 +38,7 @@ Easy no?
 ├── pages/ # Pages's entry points.
 ├── static/ # Accessible directily.
 └── store/ # Data storage and accessors.
-
+```
 
 ## :computer: People who work on this project 
 
