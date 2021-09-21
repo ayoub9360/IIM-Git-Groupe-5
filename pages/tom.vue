@@ -1,12 +1,12 @@
 <template lang="html">
   <div id="tom">
-    <h1><a id="Hello_my_name_is_Tom_0"></a>Hello, my name is Tom</h1>
+    <h1>Hello, my name is Tom</h1>
     <p>I’m a junior web developper full stack.</p>
     <p>🥰 I love :</p>
     <ul>
       <li>Html</li>
       <li>Scss</li>
-      <li>Javascript</li>
+      <li>Typescript</li>
     </ul>
     <p>😠 I hate :</p>
     <ul>
