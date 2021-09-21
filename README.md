@@ -4,13 +4,14 @@
 
 ## 🛠 Installation
 
-Create a .env file and ask for the secrets.
+__Create a `.env` file and ask for the secrets.__
 
-Build & launch the project
+__Build & launch the project__
 
+```shell
 npm i
 npm run dev
-
+```
 
 Easy no?
 
