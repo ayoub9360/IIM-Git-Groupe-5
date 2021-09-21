@@ -41,7 +41,7 @@ Easy no?
 └── store/ # Data storage and accessors.
 ```
 
-## :computer: People who work on this project 
+## 💻 People who work on this project 
 
 * Ayoub 
 * Mathilde 
