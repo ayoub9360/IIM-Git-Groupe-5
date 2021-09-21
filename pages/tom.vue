@@ -1,6 +1,6 @@
 <template lang="html">
     <div>
-    <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="VwYwZaP" data-user="carolineartz" style="box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+    <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="VwYwZaP" data-user="carolineartz" style="opacity: 0.2;box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/carolineartz/pen/VwYwZaP">
   Bongo Cat Codes</a> by Caroline Artz (<a href="https://codepen.io/carolineartz">@carolineartz</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
