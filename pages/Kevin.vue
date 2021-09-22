@@ -6,6 +6,11 @@
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <a class="float-right p-2 bg-green-500 text-white rounded-lg shadow-md" href="https://bit.ly/3ECS7ZZ" target="_blank" rel="noreferrer noopener">Vidéo de présentation</a>
         <h1 class="text-2xl leading-7 font-semibold">Page de Kevin</h1>
+        <h2>Bienvenue sur ma page</h2>
+        <p>
+            Je m'appel Kevin, j'ai 21 ans actuellement en 3ème année a iim en developpement web. <br>
+            J'aime beaucoup le côté front mais également le back, plus tard j'ai l'intention d'être full-stack ! <br>
+        </p>
       </div>
     </div>
   </div>
