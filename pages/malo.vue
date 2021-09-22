@@ -17,8 +17,6 @@
             <li>Wanna see me sing ? go for my instagram @SingingMalo</a></li>
           </ul>
         </p>
-        <p class="mt-4 pt-4 text-green-800 border-t border-dashed">
-          
       </div>
     </div>
   </div>
