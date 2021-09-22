@@ -13,6 +13,13 @@ npm i
 npm run dev
 ```
 
+__Launch test with Cypress__
+
+```shell
+npx cypress open
+Run the test you want
+```
+
 Easy no?
 
 ### Workflow
