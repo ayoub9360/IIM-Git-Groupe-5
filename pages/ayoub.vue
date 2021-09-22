@@ -1,9 +1,7 @@
 <!-- Please remove this file from your project -->
 <template>
-  <div class="relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
-    <div style="width: 100%" class='container'>
-      <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
+  <div class="relative flex items-top justify-center bg-gradient-to-r from-blue-600 to-blue-300 sm:items-center sm:pt-0" style="height: calc(100vh - 70px)">
+      <div class="container mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6 text-center">
         <h2 class="text-2xl leading-7 font-semibold">
           Hi, I'm El Guendouz Ayoub 👋
         </h2>
@@ -29,7 +27,6 @@
           </ul>
         </p>
       </div>
-    </div>
   </div>
 </template>
 
@@ -47,9 +44,4 @@
     max-width: 450px;
     margin: auto;
   }
-
-  .container {
-    text-align: center;
-  }
-
 </style>
