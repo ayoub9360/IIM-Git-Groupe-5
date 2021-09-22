@@ -16,6 +16,7 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^4.2.1",
     "autoprefixer": "^10.3.4",
+    "cypress": "^8.4.1",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.15"
   }
