@@ -1,4 +1,4 @@
-describe('example to-do app', () => {
+describe('Tom title compare text', () => {
     beforeEach(() => {
       cy.visit('https://stoic-lamarr-e9fb60.netlify.app/tom')
     })
