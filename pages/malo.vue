@@ -4,10 +4,9 @@
     <div class="mx-auto sm:px-6 lg:px-8 container">
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <a class="float-right p-2 bg-yellow-600 text-white rounded-lg shadow-md" href="https://bit.ly/3AAseaI" target="_blank" rel="noreferrer noopener">September 🎶</a>
-        <h1 class="text-2xl leading-7 font-semibold">Page de Malo</h1>
-        <h2 class="text-2xl leading-7 font-semibold">
+        <h1 class="text-2xl leading-7 font-semibold">
           Hey its Malo
-        </h2>
+        </h1>
         <p class="mt-3 text-gray-600">
           I am currently in third Year in IIM
         </p>
